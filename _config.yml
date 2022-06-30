@@ -19,3 +19,4 @@ google_analytics: G-W60SL4DRZM
 #  GoogleAnalytics:
 #  id: G-W60SL4DRZM
 #  anonymizeIp: true
+theme: jekyll-theme-slate
