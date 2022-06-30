@@ -14,8 +14,3 @@ host: 0.0.0.0
 livereload: true
 
 google_analytics: G-W60SL4DRZM
-
-#jekyll_analytics:
-#  GoogleAnalytics:
-#  id: G-W60SL4DRZM
-#  anonymizeIp: true
