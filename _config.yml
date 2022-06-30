@@ -11,3 +11,8 @@ host: 0.0.0.0
 
 # Reload
 livereload: true
+
+jekyll_analytics:
+  GoogleAnalytics:
+  id: G-W60SL4DRZM
+  anonymizeIp: true
