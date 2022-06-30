@@ -1,0 +1,23 @@
+_site/
+_site/*
+_sute/.
+*-cache*
+.jekyll-cache/*
+.jekyll-cache/.
+.jekyll-metadata
+_site
+.DS_Store
+.jekyll
+.bundle
+.sass-cache
+Gemfile
+Gemfile.lock
+node_modules
+package.json
+.vscode/settings.json
+
+# Jekyll stuff
+/_site/
+_site/
+.sass-cache/
+.jekyll-metadata

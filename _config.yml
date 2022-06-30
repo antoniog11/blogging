@@ -1,0 +1,13 @@
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-analytics
+
+
+
+#Serving
+host: 0.0.0.0
+
+# Reload
+livereload: true

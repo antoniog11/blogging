@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article class="blog-post">
+    <h3 class="blog-post-title mb-0"> <a href="{{page.url}}">{{page.title}}</a></h3>
+    <p>{{ page.content | reading_time | pluralize: "minute" }} to read</p>
+    <p class="blog-post-meta">{{page.date | date_to_string}}</p>
+
+    <div class="blog-post-content">
+      {{page.content}}
+    </div>
+
+  </article>
