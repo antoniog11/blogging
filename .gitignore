@@ -10,7 +10,6 @@ _site
 .jekyll
 .bundle
 .sass-cache
-Gemfile
 node_modules
 package.json
 .vscode/settings.json
